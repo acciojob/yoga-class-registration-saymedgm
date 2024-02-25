@@ -10,12 +10,10 @@ public class Student {
     }
 
     public String getStudentName() {
-    	//your code goes here
         return studentName;
     }
 
     public String getEmail() {
-    	//your code goes here
         return email;
     }
 }

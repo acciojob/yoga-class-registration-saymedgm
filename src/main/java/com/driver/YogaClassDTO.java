@@ -14,22 +14,18 @@ public class YogaClassDTO {
     }
 
     public String getClassCode() {
-    	//your code goes here
         return classCode;
     }
 
     public String getInstructor() {
-    	//your code goes here
         return instructor;
     }
 
     public int getMaxCapacity() {
-    	//your code goes here
         return maxCapacity;
     }
 
     public String getFormType() {
-    	//your code goes here
         return formType;
     }
 }
